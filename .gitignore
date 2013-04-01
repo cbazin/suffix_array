@@ -1,3 +1,9 @@
+CMakeCache.txt
+*.cmake
+Makefile
+*.swp
+run_suffix_array
+
 # Compiled Object files
 *.slo
 *.lo
